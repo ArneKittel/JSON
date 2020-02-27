@@ -1,0 +1,9 @@
+[
+    {
+        "type": "pass",
+        "initiator": 5,
+        "participants": [2],
+        "successQualifier": 1,
+        "time": 12 
+    }
+]
